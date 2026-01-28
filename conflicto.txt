@@ -1,1 +1,7 @@
+
 Linea desde master
+
+Linea desde nueva-rama
+git add conflicto.txt
+git status
+
