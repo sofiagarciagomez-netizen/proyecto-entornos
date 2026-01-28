@@ -1,0 +1,7 @@
+body {
+    background: rgb(255, 230, 0);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav a{ color:rgb(38, 0, 255);text-decoration: none; margin-right: 15px; padding: 10px;}
+nav a:hover{background: rgb(255, 0, 234); color: white;}
+ul{ background: magenta;}
+aside{float: right; width: 300px;}
